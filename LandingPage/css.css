@@ -1,0 +1,26 @@
+body {background-image: linear-gradient(to right, black , blue);}
+
+.main{
+  height: 500px;
+  width: 500px;
+  border: 1px solid 	#F8F8FF;
+  border-radius: 5px;
+  margin-top: 50px;
+  margin-left: 300px;
+  background-color: 	#F8F8FF;
+  box-shadow: 50px -16px #6495ED;
+  margin-bottom: 25px;
+  grid-auto-rows: minmax(100px, auto);
+  
+
+}
+
+form{
+  text-align: center;
+}
+
+.wrapper{
+  display: grid;
+  grid-template-columns: 500px 500px;
+
+}
